@@ -1,0 +1,37 @@
+---
+title: "What is Causal Inference"
+format: 
+  revealjs:
+    incremental: true
+editor: visual
+---
+
+## Do Not Confuse Correlation with Causality
+
+::: incremental
+-   "CoReLlAtIoN dOeS nOt MeAn CaUsAlItY".
+-   Sometimes there are causal relationships between two things and yet no observable correlation.
+-   Human beings engaging in optimal behavior are the main reason correlations almost never reveal causal relationships, because rarely are human beings acting randomly.
+-   The presence of randomness that is crucial for identifying causal effect.
+:::
+
+## Correlations Can be Funky
+
+::: nonincremental
+![Random Things That Correlate](pics/random_correlation_ch1.jpg) 
+
+- more examples at [r/randomcorrelations](https://www.reddit.com/r/randomcorrelations)
+:::
+
+## Causal Relationship Can Also Be Tricky
+
+::: incremental
+ 
+- There exists causal relationship between alcohol consumption and automotive fatalities
+- What if we restricted data to >10 drinks per day
+
+- ![Causal Relationship with no Correlation](pics/causal_no_correlation_ch1.jpg)
+
+- Correlation is (a) product of data available; (b) measures linear dependency
+
+:::
